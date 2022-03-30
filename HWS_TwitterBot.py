@@ -1,6 +1,6 @@
 #Program to tweet deals on r/hardwareswap
 #Zachary Conger
-3/30/2022
+#3/30/2022
 
 from EbayScraper import *
 from Info import *
